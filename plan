@@ -1,9 +1,9 @@
-+ initial + nojekyll added + basic index markup + basic file str. + images + normalize.css + basic readme update 
++ initial + nojekyll added + basic index markup + basic file str. + images + normalize.css + basic readme update
 + readme upd + inter.css & font files added + vendor import normalize & font
++ markup upd + block file structure + import block's css-s
 
 ---
 
-= markup uod + block file structure + import block's css-s
+= header & mq-s + body.css + page.css
 
-- header brunch 
-- 
+-
