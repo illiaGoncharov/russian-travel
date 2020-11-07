@@ -1,3 +1,26 @@
 .lead {
-	
+  align-items: center;
+  min-width: 320px;
+  margin: 0 auto;
+  padding-top: 45px;
+
+}
+
+@media (min-width: 768px) {
+  .lead {
+    padding-top: 61px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .lead {
+    max-width: 928px;
+  }
+}
+
+@media (min-width: 1280px) {
+  .lead {
+    padding-top: 76px;
+    max-width: 984px;
+  }
 }
