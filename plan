@@ -2,9 +2,10 @@
 + readme upd + inter.css & font files added + vendor import normalize & font
 + markup upd + block file structure + import block's css-s
 + header & mq-s + body.css + page.css
++ lead & mq-s + optimized lead__image + optimized smoothing & rendering + logo size
 
 ---
 
 =
 
-- lead & mq-s + optimized lead__image + optimized smoothing & rendering + logo size +
+- optimized logo + intro & mq-s
