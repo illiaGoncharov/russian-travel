@@ -3,9 +3,10 @@
 + markup upd + block file structure + import block's css-s
 + header & mq-s + body.css + page.css
 + lead & mq-s + optimized lead__image + optimized smoothing & rendering + logo size
++ optimized logo + intro & mq-s + fonts update
 
 ---
 
 =
 
-- optimized logo + intro & mq-s
+- photo-grid & mq-s
