@@ -4,17 +4,17 @@
 
 ## Обзор
 
-* Практика адаптивной [+ резиновой] верстки 
-	* Grid / Flex 
-	* Media Querries 
-* Фйловая структура Nested 
-* GIT 
+* Практика адаптивной [+ резиновой] верстки
+	* Grid / Flex
+	* Media Querries
+* Фйловая структура Nested
+* GIT
 
 ## Посмотреть
 
-* [Ссылка на сайт] 
-* [Ссылка на макет в Figma]
+* [Ссылка на сайт]  https://illiagoncharov.github.io/russian-travel/.
+* [Ссылка на макет в Figma] https://www.figma.com/file/ebU5cNR9e3HIqpnc2sHhZs/Sprint-3-Russia-desktop-mobile-Copy?node-id=28503%3A0
 
 ## Далее
 
-* JavaScript 
+* JavaScript
