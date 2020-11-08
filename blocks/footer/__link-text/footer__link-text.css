@@ -7,7 +7,7 @@
 }
 
 .footer__link-text:hover {
-  opacity: .55;
+  opacity: .8;
 }
 
 @media (min-width: 768px) {

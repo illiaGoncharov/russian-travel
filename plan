@@ -7,9 +7,12 @@
 + photo-grid & mq-s
 + optimized imgs + places & place + mq-s
 + cover & mq-s + footer $ mq-s
++ "ru"=lang + lead img to .jpg [opt to 30kb] + font files updated
 
 ---
 
-=
+= cover__link min-height-s upd + footer opacity .8 + lead upd + place opacity .8
 
--
+- 3/4 blocks
+  -
+  -
