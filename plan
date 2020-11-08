@@ -8,11 +8,12 @@
 + optimized imgs + places & place + mq-s
 + cover & mq-s + footer $ mq-s
 + "ru"=lang + lead img to .jpg [opt to 30kb] + font files updated
++ cover__link min-height-s upd + footer opacity .8 + lead upd + place opacity .8
 
 ---
 
-= cover__link min-height-s upd + footer opacity .8 + lead upd + place opacity .8
+=
 
-- 3/4 blocks
-  -
-  -
+- Мобильный дизайн у вас стартует для всех секций с разрешения 767 - при таком отображении получаются очень большие картинки в places, а в cover узкая длинная картинка. Я бы рекомендовала немного поменять брейкпойнты для этих секций или добавить какие-то промежуточные.
+
+- Для задания внешней геометрии и позиционирования блока можно использовать микс с элементом родительского блока https://ru.bem.info/methodology/css/#%D0%B2%D0%BD%D0%B5%D1%88%D0%BD%D1%8F%D1%8F-%D0%B3%D0%B5%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D1%8F-%D0%B8-%D0%BF%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D0%BE%D0%BD%D0%B8%D1%
