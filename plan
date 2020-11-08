@@ -4,9 +4,10 @@
 + header & mq-s + body.css + page.css
 + lead & mq-s + optimized lead__image + optimized smoothing & rendering + logo size
 + optimized logo + intro & mq-s + fonts update
++ photo-grid & mq-s
 
 ---
 
 =
 
-- photo-grid & mq-s
+- optimized imgs + places & place + mq-s
